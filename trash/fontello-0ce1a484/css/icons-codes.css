@@ -1,0 +1,9 @@
+
+.icon-search:before { content: '\31'; } /* '1' */
+.icon-heart-empty:before { content: '\32'; } /* '2' */
+.icon-shopping-bag:before { content: '\33'; } /* '3' */
+.icon-user-o:before { content: '\34'; } /* '4' */
+.icon-menu:before { content: '\35'; } /* '5' */
+.icon-help-circled-alt:before { content: '\36'; } /* '6' */
+.icon-inbox:before { content: '\37'; } /* '7' */
+.icon-shop:before { content: '\38'; } /* '8' */
